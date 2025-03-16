@@ -1,0 +1,21 @@
+I want to use Cursor to help me implement the Gemini Multimodal Live API demo application from Google.
+
+Here's the link to the tutorial: https://github.com/GoogleCloudPlatform/generative-ai/tree/main/gemini/multimodal-live-api/websocket-demo-app
+
+I have already cloned their repo to 
+
+My goal is to learn how to use the Gemini Multimodal Live API by working through this tutorial.
+
+Please provide guidance and code suggestions to help me follow the tutorial effectively.
+
+Here are some general guidelines:
+
+* Focus on Python implementation where possible.
+* Help me set up the project structure and necessary files.
+* Guide me through the steps of installing dependencies and configuring the environment.
+* Assist me in understanding the code and how it works.
+* Provide code snippets and explanations as needed.
+* Help me troubleshoot any issues I encounter.
+
+By the end of this, I should have a working implementation of the Gemini Multimodal Live API
+that I can use as a starting point for my own projects. And I should have a version hooked to Vertex AI to use.
