@@ -4,9 +4,9 @@ window.addEventListener("load", (event) => {
     setAvailableCamerasOptions();
     setAvailableMicrophoneOptions();
 });
-
-const PROXY_URL = "wss://[THE_URL_YOU_COPIED_WITHOUT_HTTP]";
-const PROJECT_ID = "your project id";
+const PROXY_URL = "ws://localhost:8080"; 
+// const PROXY_URL = "wss://[THE_URL_YOU_COPIED_WITHOUT_HTTP]";
+const PROJECT_ID = "ai-personal-assistant-453215" // "your project id";
 const MODEL = "gemini-2.0-flash-exp";
 const API_HOST = "us-central1-aiplatform.googleapis.com";
 
